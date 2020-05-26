@@ -29,6 +29,7 @@
 
 ## How to use
 If you've done everything properly in the **Setup** section, all you have to do it turn on or off the visibility of the browser source for it to work
+*NOTE: This will not work in Chrome/Firefox/etc. It is only designed to work in broadcasting software*
 
 ***
 
