@@ -36,7 +36,7 @@ If you've done everything properly in the **Setup** section, all you have to do 
 
 ## Ways to use this
 - You can have the browser source always visible on a specific scene so whenever your switch to that scene, it will automatically activate the slider
-- You can set up a Stream Deck Multi-action to activate the browser source, delay for however many seconds you'd like, then deactivcate the browser source
+- You can set up a Stream Deck Multi-action to activate the browser source, delay for however many seconds you'd like, then deactivcate the browser source when the animation is complete. For example, if you put `10` in `slide_duration_in_seconds.txt`, the delay you'd put in the Stream Deck Multi-action should just be a bit more to make sure the animation completes smoothly, so `10500` would be 10.5 seconds, giving an extra 0.5 seconds for the animation to complete smoothly.
 
 ***
 
