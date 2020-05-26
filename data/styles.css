@@ -1,0 +1,68 @@
+body {
+	overflow: hidden;
+	margin: 0px;
+}
+
+img {
+    animation-timing-function: ease;
+	height: auto;
+	width: auto;
+	max-height: 100%;
+	max-width: 100%;
+}
+
+.rightslide {
+  position: fixed;
+  top: 50%;
+  left: 100%;
+  transform: translate(0%, -50%);
+  animation-name: rightslider;
+}
+
+.leftslide {
+  position: fixed;
+  top: 50%;
+  left: 0%;
+  transform: translate(-100%, -50%);
+  animation-name: leftslider;
+}
+
+.topslide {
+  position: fixed;
+  top: 0%;
+  left: 50%;
+  transform: translate(-50%, -100%);
+  animation-name: topslider;
+}
+
+.bottomslide {
+  position: fixed;
+  top: 100%;
+  left: 50%;
+  transform: translate(-50%, 0%);
+  animation-name: bottomslider;
+}
+
+@keyframes rightslider {
+	25% { transform: translate(-100%, -50%); }
+	75% { transform: translate(-100%, -50%); }
+    100% { transform: translate(0%, -50%); }
+}
+
+@keyframes leftslider {
+	25% { transform: translate(0%, -50%); }
+	75% { transform: translate(0%, -50%); }
+    100% { transform: translate(-100%, -50%); }
+}
+
+@keyframes topslider {
+	25% { transform: translate(-50%, 0%); }
+	75% { transform: translate(-50%, 0%); }
+    100% { transform: translate(-50%, -100%); }
+}
+
+@keyframes bottomslider {
+	25% { transform: translate(-50%, -100%); }
+	75% { transform: translate(-50%, -100%); }
+    100% { transform: translate(-50%, 0%); }
+}
