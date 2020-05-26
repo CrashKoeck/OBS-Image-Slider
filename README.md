@@ -51,5 +51,11 @@ If you've done everything properly in the **Setup** section, all you have to do 
 
 ***
 
+## Future Plans
+- Instead of multiple HTML files, you will be able to choose which direction you want to move in a configuration file
+- Exe file for easy configuration that will allow you to enter duration in seconds, how long slide in is, how long slide out it, choose direction for slide, and image selection
+
+***
+
 ## Support
 - Be sure to join the <a href="https://discord.gg/zyS2jbJ">CrashPad Discord</a> for direct support
