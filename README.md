@@ -2,6 +2,8 @@
 
 <p align="center">Easily slide images from the top, bottom, left, or right side of the screen in OBS Studio (or any other broadcasting software)</p>
 
+<p align="center"><img src="https://user-images.githubusercontent.com/51434502/82869508-3c9e6600-9ee3-11ea-865e-1ccd53c7faab.gif"></p>
+
 <p align="center"><i><b>
   Crash on the interwebs<br>
   <a href="https://twitter.com/CrashKoeck">Twitter</a> |
