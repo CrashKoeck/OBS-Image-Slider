@@ -14,7 +14,7 @@
 ***
 
 ## Setup
-- Download the latest *zip* file from <a href="https://github.com/CrashKoeck/OBS-Image-Slider/releases">this page</a>
+- Download the latest *Source Code (zip)* file from <a href="https://github.com/CrashKoeck/OBS-Image-Slider/releases">this page</a>
 - Extract the *zip* file on your computer
 - Replace `image.png` with your image (be sure to rename your image to **image.png**)
 - Set how long you want the animation to last in the `slide_duration_in_seconds.txt` file (in seconds)
